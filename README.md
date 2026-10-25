@@ -1,1 +1,1 @@
-# Broda-fore-bot
+# Broda-forex-bot
